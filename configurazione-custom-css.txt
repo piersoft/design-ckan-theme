@@ -370,3 +370,10 @@ height: 30px;
 .input-append .add-on, .input-prepend .add-on {
 height: 30px; 
 }
+
+@media screen and (min-width: 768px) and (max-width: 991px), screen and (min-width: 992px) and (max-width: 1365px), screen and (min-width: 1366px) {
+ .Header-logo img {
+    height: 9.5rem;
+    width: 9.5rem;
+  }
+  }
